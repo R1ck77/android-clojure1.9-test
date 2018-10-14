@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Clojure19Test</string>
+    <string name="ar_you_not_seeing_a_hello_world_here_then_there_is_a_problem">Ar you not seeing a \'Hello, World!\' here? Then there is a problem... :(</string>
 </resources>
