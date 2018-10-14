@@ -1,3 +1,5 @@
+## About ##
+
 Minimum reproducible example for an issue I'm having with Android 8 and Clojure 1.9
 
 The problem happens on my Android 8 Huawei Mate 10 Pro with Android 8, where it works fine on my LG Nexus 5 (which mounts Android 6 something, I think…).
@@ -61,3 +63,7 @@ When executed, the program fails with the following exception:
     10-14 18:29:55.824 13023 13023 E AndroidRuntime:        ... 42 more
 
 The problem is Clojure 1.9 specific, as compiling the Clojure library I include in the project with Clojure 1.8, everything works fine.
+
+## License ##
+
+This code is released under the WTFPL
