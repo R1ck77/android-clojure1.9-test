@@ -1,6 +1,6 @@
 (ns test-library.core
   (:gen-class
-   :name test-library.ClojureLibrary
+   :name test.library.ClojureLibrary
    :methods
    [^:static [sayHello [] String]]))
 
